@@ -1,0 +1,174 @@
+
+body{
+
+    margin: auto;
+    background-color: #FFFBEB;
+
+}
+
+.top{
+
+    background-color: #ECF9FF;
+    padding: 100px;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: x-large;
+    text-align: center;
+
+}
+
+.langs{
+
+    font-size: large;
+    color: cadetblue;
+    font-family: 'Crimson Text', serif;
+    padding-bottom: 20px;
+
+}
+
+.Leadandexp{
+    color: darkgreen;
+    font-family: 'Crimson Text', serif;
+    padding-bottom: 20px;
+
+}
+
+.skills{
+
+    font-family: 'Crimson Text', serif;
+
+}
+
+a{
+    background-color: #ECF9FF;
+    color: darkgray;
+    text-decoration: none;
+    padding: 4px
+}
+
+a:hover{
+    color: darkgrey;
+    background-color: pink;
+}
+
+.contact{
+
+    margin-left: 338px;
+}
+
+hr{
+
+    border-style: groove;
+    border-color: cornflowerblue;
+}
+
+#computer{
+
+    position: absolute;
+    right: 400px;
+    border-radius: 20px;
+
+}
+
+#code{
+
+position: absolute;
+left: 400px;
+border-radius: 20px;
+
+}
+
+#selfie{
+
+    border-radius: 20px;
+}
+
+.leftcol1{
+margin-left: 20px;
+    float: left;
+}
+
+.rightcol1{
+    margin-left: 120px;
+}
+
+.leftcol2{
+    float: left;
+}
+
+.rightcol2{
+ margin-left: 120px;
+}
+
+dl{
+    display: inline;
+}
+
+.leftcol3{
+    float: left;
+}
+
+.rightcol3{
+    margin-left: 338px;
+}
+
+#copyright{
+margin-top: 50px;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    height: 30%;
+    margin-left: 40%;
+    background-color: floralwhite;
+  }
+  
+  .card:hover {
+    box-shadow: 10px 8px 16px 10px rgba(0, 0, 0, 0.579);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  #name{
+    text-align: center;
+  }
+
+  .bottom{
+    text-align: center;
+  }
+
+#firstname{
+    text-align: center;
+}
+
+#fnamebox{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#emaillabel{
+
+    text-align: center;
+}
+
+#emailbox{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#messagelabel{
+    text-align: center;
+}
+
+#messagebox{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#submit{
+    text-align: center;
+}
